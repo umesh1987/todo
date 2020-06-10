@@ -1,0 +1,43 @@
+.maingrid {
+  height: 100vh;
+}
+
+.column-left {
+  background-color: #202020;
+  color: #999;
+}
+
+.column-left h1 {
+  font-size: 40px;
+  text-transform: uppercase;
+  padding: 15px;
+  border-bottom: 1px solid #999;
+  text-align: center;
+}
+
+.column-left ul {
+  padding: 5px;
+  margin-left: 5px;
+  list-style: none;
+}
+
+.column-left li {
+  padding: 20px;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.column-left a {
+  color: #999;
+}
+
+.column-left li:hover,
+.column-left li a:hover {
+  background-color: #0848f8;
+  color: white;
+  border-radius: 5px;
+}
+
+.table__table {
+  margin-top: 8px;
+}

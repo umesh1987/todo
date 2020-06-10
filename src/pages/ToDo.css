@@ -1,0 +1,49 @@
+.todo-content {
+    margin-top: 10px;
+}
+
+.input-content {
+    background-color: bisque;
+    padding: 20px;
+    text-align: center;
+}
+
+.input-form label {
+    font-size: 20px;
+    padding: 15px;
+}
+
+.input-form input {
+    padding: 8px;
+    width: 350px;
+    border-radius: 5px;
+    border: 1px solid #202020;
+}
+
+button {
+    padding: 8px;
+    border: 1px solid #202020;
+    border-radius: 5px;
+    width: 100px;
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+button:hover {
+    background-color: #202020;
+    color: #ffffff;
+}
+
+.edit:hover {
+    background-color: yellow;
+    color: black;
+}
+
+.delete:hover {
+    background-color: red;
+    color: black;
+}
+
+.input-list__table {
+    margin-top: 5px;
+}
